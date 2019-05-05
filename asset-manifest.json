@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/myBurger/static/css/main.17c1f104.chunk.css",
-    "main.js": "/myBurger/static/js/main.162bdc52.chunk.js",
-    "main.js.map": "/myBurger/static/js/main.162bdc52.chunk.js.map",
+    "main.js": "/myBurger/static/js/main.56265c2f.chunk.js",
+    "main.js.map": "/myBurger/static/js/main.56265c2f.chunk.js.map",
     "runtime~main.js": "/myBurger/static/js/runtime~main.f784e4ef.js",
     "runtime~main.js.map": "/myBurger/static/js/runtime~main.f784e4ef.js.map",
     "static/js/2.142033a6.chunk.js": "/myBurger/static/js/2.142033a6.chunk.js",
@@ -17,7 +17,7 @@
     "static/js/5.a1bfffac.chunk.js": "/myBurger/static/js/5.a1bfffac.chunk.js",
     "static/js/5.a1bfffac.chunk.js.map": "/myBurger/static/js/5.a1bfffac.chunk.js.map",
     "index.html": "/myBurger/index.html",
-    "precache-manifest.0747f541b64aafdd2ac9679120b6a1cf.js": "/myBurger/precache-manifest.0747f541b64aafdd2ac9679120b6a1cf.js",
+    "precache-manifest.abcc73cf49ee3176220a1e78dc04fed0.js": "/myBurger/precache-manifest.abcc73cf49ee3176220a1e78dc04fed0.js",
     "service-worker.js": "/myBurger/service-worker.js",
     "static/css/3.7cfa4261.chunk.css.map": "/myBurger/static/css/3.7cfa4261.chunk.css.map",
     "static/css/4.a94e6bf5.chunk.css.map": "/myBurger/static/css/4.a94e6bf5.chunk.css.map",
